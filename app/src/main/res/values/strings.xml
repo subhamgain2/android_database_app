@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DBMS</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_salary">Salary</string>
+    <string name="button_add">Add</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_search">Search</string>
+    <string name="button_submit">Submit</string>
+    <string name="list_all">List All</string>
+</resources>
